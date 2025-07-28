@@ -13,4 +13,4 @@ My data science and analytics projects
 reach out to me at ...
 
 ## Image
-![Spidermanss1].(https://static.wikia.nocookie.net/spiderman-films/images/6/67/Promotional_art_of_Kirsten_Dunst_%26_Tobey_Maguire_in_Spider-Man_4_%282011%29.jpg)
+![Spidermanss1](https://static.wikia.nocookie.net/spiderman-films/images/6/67/Promotional_art_of_Kirsten_Dunst_%26_Tobey_Maguire_in_Spider-Man_4_%282011%29.jpg)
